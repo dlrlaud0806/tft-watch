@@ -1,220 +1,254 @@
 {
- "updatedAt": "11/17 22:31",
- "source": "https://lolchess.gg/meta",
+ "updatedAt": "11/17 23:27",
+ "title": "MetaTFT 플래티넘+",
+ "source": "https://www.metatft.com/comps",
  "decks": [
   {
-   "name": "협곡야수 덩굴정령",
-   "tier": "HOT",
+   "name": "선봉대 모르가나",
+   "tier": "S",
+   "stat": "평균 4.08등 · TOP4 56.1% · 픽률 0.18\n운영: 빠른 9레벨",
    "units": [
     {
-     "name": "조약돌",
-     "cost": 1,
-     "star": 2,
-     "items": []
-    },
-    {
-     "name": "어스름늑대",
+     "name": "엘리스",
      "cost": 2,
-     "star": 2,
      "items": []
     },
     {
-     "name": "돌거북",
+     "name": "카시오페아",
      "cost": 3,
-     "star": 3,
-     "items": [
-      "가고일 돌갑옷",
-      "워모그의 갑옷",
-      "정령의 형상"
-     ]
-    },
-    {
-     "name": "감시자",
-     "cost": 4,
-     "star": 2,
-     "items": []
-    },
-    {
-     "name": "덩굴정령",
-     "cost": 4,
-     "star": 2,
-     "items": [
-      "구인수의 격노검",
-      "밤의 끝자락",
-      "수은"
-     ]
-    },
-    {
-     "name": "타릭",
-     "cost": 5,
-     "star": 2,
-     "items": []
-    },
-    {
-     "name": "장로 드래곤",
-     "cost": 5,
-     "star": 2,
-     "items": [
-      "무한의 대검",
-      "최후의 속삭임",
-      "타격대의 철퇴"
-     ]
-    },
-    {
-     "name": "나르",
-     "cost": 5,
-     "star": 2,
-     "items": []
-    }
-   ],
-   "early": [
-    {
-     "label": "Lv5",
-     "units": [
-      "불타는 묘목",
-      "조약돌",
-      "바위 게",
-      "어스름늑대",
-      "심술두꺼비"
-     ]
-    },
-    {
-     "label": "Lv6",
-     "units": [
-      "요릭",
-      "불타는 묘목",
-      "조약돌",
-      "바위 게",
-      "어스름늑대",
-      "심술두꺼비"
-     ]
-    },
-    {
-     "label": "Lv7",
-     "units": [
-      "조약돌",
-      "불타는 묘목",
-      "바위 게",
-      "어스름늑대",
-      "돌거북",
-      "감시자",
-      "덩굴정령"
-     ]
-    }
-   ],
-   "rank": 1,
-   "carries": [
-    {
-     "name": "돌거북",
-     "cost": 3,
-     "star": 3,
-     "items": [
-      "가고일 돌갑옷",
-      "워모그의 갑옷",
-      "정령의 형상"
-     ]
-    },
-    {
-     "name": "장로 드래곤",
-     "cost": 5,
-     "star": 2,
-     "items": [
-      "무한의 대검",
-      "최후의 속삭임",
-      "타격대의 철퇴"
-     ]
-    },
-    {
-     "name": "덩굴정령",
-     "cost": 4,
-     "star": 2,
-     "items": [
-      "구인수의 격노검",
-      "밤의 끝자락",
-      "수은"
-     ]
-    }
-   ]
-  },
-  {
-   "name": "선봉대 알룬",
-   "tier": "",
-   "units": [
-    {
-     "name": "라칸",
-     "cost": 1,
-     "star": 2,
      "items": []
     },
     {
      "name": "다이애나",
      "cost": 3,
-     "star": 2,
+     "items": []
+    },
+    {
+     "name": "모르가나",
+     "cost": 4,
+     "items": [
+      "적응형 투구",
+      "모렐로노미콘",
+      "공허의 지팡이"
+     ]
+    },
+    {
+     "name": "감시자",
+     "cost": 4,
+     "items": [
+      "가고일 돌갑옷",
+      "수호자의 맹세",
+      "정령의 형상"
+     ]
+    },
+    {
+     "name": "알룬",
+     "cost": 5,
+     "items": [
+      "보석 건틀릿",
+      "내셔의 이빨",
+      "쇼진의 창"
+     ]
+    },
+    {
+     "name": "장로 드래곤",
+     "cost": 5,
+     "items": []
+    },
+    {
+     "name": "타릭",
+     "cost": 5,
+     "items": []
+    }
+   ],
+   "carries": [
+    {
+     "name": "알룬",
+     "cost": 5,
+     "items": [
+      "보석 건틀릿",
+      "내셔의 이빨",
+      "쇼진의 창"
+     ]
+    },
+    {
+     "name": "모르가나",
+     "cost": 4,
+     "items": [
+      "적응형 투구",
+      "모렐로노미콘",
+      "공허의 지팡이"
+     ]
+    },
+    {
+     "name": "감시자",
+     "cost": 4,
+     "items": [
+      "가고일 돌갑옷",
+      "수호자의 맹세",
+      "정령의 형상"
+     ]
+    }
+   ],
+   "early": [
+    {
+     "label": "Lv4",
+     "units": [
+      "카밀",
+      "케이틀린",
+      "엘리스",
+      "카시오페아"
+     ]
+    },
+    {
+     "label": "Lv5",
+     "units": [
+      "카밀",
+      "케이틀린",
+      "엘리스",
+      "카시오페아",
+      "다이애나"
+     ]
+    },
+    {
+     "label": "Lv6",
+     "units": [
+      "카밀",
+      "케이틀린",
+      "엘리스",
+      "카시오페아",
+      "다이애나",
+      "피들스틱"
+     ]
+    },
+    {
+     "label": "Lv7",
+     "units": [
+      "카밀",
+      "라칸",
+      "케이틀린",
+      "엘리스",
+      "카시오페아",
+      "다이애나",
+      "헤카림"
+     ]
+    }
+   ],
+   "rank": 1
+  },
+  {
+   "name": "선봉대 알룬",
+   "tier": "S",
+   "stat": "평균 4.12등 · TOP4 55.4% · 픽률 0.30\n운영: 빠른 9레벨",
+   "units": [
+    {
+     "name": "라칸",
+     "cost": 1,
+     "items": []
+    },
+    {
+     "name": "다이애나",
+     "cost": 3,
      "items": []
     },
     {
      "name": "피들스틱",
      "cost": 3,
-     "star": 2,
-     "items": []
-    },
-    {
-     "name": "감시자",
-     "cost": 4,
-     "star": 2,
      "items": []
     },
     {
      "name": "릴리아",
      "cost": 4,
-     "star": 2,
      "items": []
     },
     {
      "name": "모르가나",
      "cost": 4,
-     "star": 2,
      "items": [
-      "쇼진의 창",
-      "공허의 지팡이",
-      "모렐로노미콘"
+      "마법공학 총검",
+      "모렐로노미콘",
+      "공허의 지팡이"
      ]
     },
     {
-     "name": "타릭",
-     "cost": 5,
-     "star": 2,
+     "name": "감시자",
+     "cost": 4,
      "items": [
-      "가고일 돌갑옷",
-      "워모그의 갑옷",
-      "굳건한 심장"
+      "적응형 투구",
+      "수호자의 맹세",
+      "수호자의 맹세"
+     ]
+    },
+    {
+     "name": "알룬",
+     "cost": 5,
+     "items": [
+      "보석 건틀릿",
+      "쇼진의 창",
+      "타격대의 철퇴"
      ]
     },
     {
      "name": "아이번",
      "cost": 5,
-     "star": 2,
      "items": []
     },
     {
+     "name": "타릭",
+     "cost": 5,
+     "items": [
+      "크라운가드",
+      "가고일 돌갑옷",
+      "워모그의 갑옷"
+     ]
+    }
+   ],
+   "carries": [
+    {
      "name": "알룬",
      "cost": 5,
-     "star": 2,
      "items": [
-      "쇼진의 창",
       "보석 건틀릿",
+      "쇼진의 창",
       "타격대의 철퇴"
+     ]
+    },
+    {
+     "name": "모르가나",
+     "cost": 4,
+     "items": [
+      "마법공학 총검",
+      "모렐로노미콘",
+      "공허의 지팡이"
+     ]
+    },
+    {
+     "name": "타릭",
+     "cost": 5,
+     "items": [
+      "크라운가드",
+      "가고일 돌갑옷",
+      "워모그의 갑옷"
      ]
     }
    ],
    "early": [
     {
+     "label": "Lv4",
+     "units": [
+      "카밀",
+      "케이틀린",
+      "엘리스",
+      "카시오페아"
+     ]
+    },
+    {
      "label": "Lv5",
      "units": [
       "카밀",
       "라칸",
-      "엘리스",
       "케이틀린",
+      "엘리스",
       "카시오페아"
      ]
     },
@@ -222,11 +256,11 @@
      "label": "Lv6",
      "units": [
       "카밀",
-      "라칸",
-      "엘리스",
       "케이틀린",
+      "엘리스",
+      "카시오페아",
       "다이애나",
-      "카시오페아"
+      "피들스틱"
      ]
     },
     {
@@ -234,157 +268,91 @@
      "units": [
       "카밀",
       "라칸",
-      "엘리스",
       "케이틀린",
-      "다이애나",
+      "엘리스",
       "카시오페아",
-      "모르가나"
+      "다이애나",
+      "헤카림"
      ]
     }
    ],
-   "rank": 2,
-   "carries": [
-    {
-     "name": "타릭",
-     "cost": 5,
-     "star": 2,
-     "items": [
-      "가고일 돌갑옷",
-      "워모그의 갑옷",
-      "굳건한 심장"
-     ]
-    },
-    {
-     "name": "알룬",
-     "cost": 5,
-     "star": 2,
-     "items": [
-      "쇼진의 창",
-      "보석 건틀릿",
-      "타격대의 철퇴"
-     ]
-    },
-    {
-     "name": "모르가나",
-     "cost": 4,
-     "star": 2,
-     "items": [
-      "쇼진의 창",
-      "공허의 지팡이",
-      "모렐로노미콘"
-     ]
-    }
-   ]
+   "rank": 2
   },
   {
-   "name": "햇빛 카르마 유나라",
-   "tier": "HOT",
+   "name": "기원자 티모 알리스타",
+   "tier": "S",
+   "stat": "평균 4.14등 · TOP4 59.3% · 픽률 0.22\n운영: 6레벨 리롤",
    "units": [
     {
-     "name": "레오나",
+     "name": "코부코",
      "cost": 1,
-     "star": 3,
      "items": []
     },
     {
-     "name": "요릭",
+     "name": "베이가",
      "cost": 1,
-     "star": 3,
      "items": []
     },
     {
-     "name": "카르마",
-     "cost": 1,
-     "star": 3,
-     "items": [
-      "푸른 파수꾼",
-      "보석 건틀릿",
-      "라바돈의 죽음모자"
-     ]
-    },
-    {
-     "name": "세주아니",
+     "name": "알리스타",
      "cost": 2,
-     "star": 3,
      "items": [
       "가고일 돌갑옷",
       "가고일 돌갑옷",
       "워모그의 갑옷"
-     ]
-    },
-    {
-     "name": "유나라",
-     "cost": 2,
-     "star": 3,
-     "items": [
-      "죽음의 검",
-      "쇼진의 창",
-      "최후의 속삭임"
      ]
     },
     {
      "name": "르블랑",
      "cost": 2,
-     "star": 2,
      "items": [
-      "공허의 지팡이",
-      "붉은 덩굴정령"
+      "기원자 상징",
+      "라바돈의 죽음모자",
+      "쇼진의 창"
      ]
     },
     {
-     "name": "케일",
+     "name": "티모",
      "cost": 2,
-     "star": 2,
-     "items": []
+     "items": [
+      "보석 건틀릿",
+      "쇼진의 창",
+      "타격대의 철퇴"
+     ]
     },
     {
-     "name": "아지르",
+     "name": "헤카림",
      "cost": 3,
-     "star": 2,
+     "items": []
+    },
+    {
+     "name": "모르가나",
+     "cost": 4,
+     "items": [
+      "적응형 투구",
+      "모렐로노미콘",
+      "공허의 지팡이"
+     ]
+    },
+    {
+     "name": "감시자",
+     "cost": 4,
      "items": []
     }
    ],
-   "early": [
-    {
-     "label": "Lv5",
-     "units": [
-      "레오나",
-      "요릭",
-      "카르마",
-      "유나라",
-      "르블랑"
-     ]
-    },
-    {
-     "label": "Lv6",
-     "units": [
-      "레오나",
-      "요릭",
-      "카르마",
-      "세주아니",
-      "유나라",
-      "르블랑"
-     ]
-    },
-    {
-     "label": "Lv7",
-     "units": [
-      "레오나",
-      "요릭",
-      "카르마",
-      "세주아니",
-      "유나라",
-      "르블랑",
-      "케일"
-     ]
-    }
-   ],
-   "rank": 3,
    "carries": [
     {
-     "name": "세주아니",
+     "name": "티모",
      "cost": 2,
-     "star": 3,
+     "items": [
+      "보석 건틀릿",
+      "쇼진의 창",
+      "타격대의 철퇴"
+     ]
+    },
+    {
+     "name": "알리스타",
+     "cost": 2,
      "items": [
       "가고일 돌갑옷",
       "가고일 돌갑옷",
@@ -392,298 +360,888 @@
      ]
     },
     {
-     "name": "유나라",
-     "cost": 2,
-     "star": 3,
+     "name": "모르가나",
+     "cost": 4,
      "items": [
-      "죽음의 검",
-      "쇼진의 창",
-      "최후의 속삭임"
+      "적응형 투구",
+      "모렐로노미콘",
+      "공허의 지팡이"
+     ]
+    }
+   ],
+   "early": [
+    {
+     "label": "Lv4",
+     "units": [
+      "코부코",
+      "베이가",
+      "알리스타",
+      "티모"
      ]
     },
     {
-     "name": "카르마",
-     "cost": 1,
-     "star": 3,
-     "items": [
-      "푸른 파수꾼",
-      "보석 건틀릿",
-      "라바돈의 죽음모자"
+     "label": "Lv5",
+     "units": [
+      "코부코",
+      "베이가",
+      "알리스타",
+      "르블랑",
+      "티모"
+     ]
+    },
+    {
+     "label": "Lv6",
+     "units": [
+      "생명꽃",
+      "생명꽃",
+      "코부코",
+      "베이가",
+      "알리스타",
+      "르블랑",
+      "티모",
+      "헤카림"
+     ]
+    },
+    {
+     "label": "Lv7",
+     "units": [
+      "생명꽃",
+      "생명꽃",
+      "코부코",
+      "베이가",
+      "알리스타",
+      "르블랑",
+      "티모",
+      "헤카림",
+      "감시자"
      ]
     }
-   ]
+   ],
+   "rank": 3
   },
   {
-   "name": "[유물] 마스터 이",
-   "tier": "",
+   "name": "협곡야수 덩굴정령",
+   "tier": "S",
+   "stat": "평균 4.22등 · TOP4 55.2% · 픽률 0.84\n운영: 빠른 8레벨",
    "units": [
     {
-     "name": "요릭",
+     "name": "조약돌",
      "cost": 1,
-     "star": 2,
+     "items": []
+    },
+    {
+     "name": "어스름늑대",
+     "cost": 2,
      "items": []
     },
     {
      "name": "돌거북",
      "cost": 3,
-     "star": 2,
-     "items": []
-    },
-    {
-     "name": "렝가",
-     "cost": 3,
-     "star": 3,
-     "items": [
-      "구인수의 격노검",
-      "밤의 끝자락",
-      "거인의 결의"
-     ]
-    },
-    {
-     "name": "바이",
-     "cost": 3,
-     "star": 3,
      "items": [
       "가고일 돌갑옷",
-      "워모그의 갑옷",
-      "수호자의 맹세"
-     ]
-    },
-    {
-     "name": "마스터 이",
-     "cost": 3,
-     "star": 3,
-     "items": [
-      "밤의 끝자락",
-      "구인수의 격노검",
-      "지옥불 손도끼"
-     ]
-    },
-    {
-     "name": "코그모",
-     "cost": 3,
-     "star": 2,
-     "items": [
-      "붉은 덩굴정령"
+      "정령의 형상",
+      "워모그의 갑옷"
      ]
     },
     {
      "name": "세트",
      "cost": 4,
-     "star": 2,
+     "items": []
+    },
+    {
+     "name": "덩굴정령",
+     "cost": 4,
+     "items": [
+      "밤의 끝자락",
+      "구인수의 격노검",
+      "수은"
+     ]
+    },
+    {
+     "name": "감시자",
+     "cost": 4,
+     "items": [
+      "가고일 돌갑옷",
+      "수호자의 맹세",
+      "워모그의 갑옷"
+     ]
+    },
+    {
+     "name": "장로 드래곤",
+     "cost": 5,
+     "items": [
+      "무한의 대검",
+      "최후의 속삭임",
+      "타격대의 철퇴"
+     ]
+    },
+    {
+     "name": "타릭",
+     "cost": 5,
+     "items": []
+    }
+   ],
+   "carries": [
+    {
+     "name": "덩굴정령",
+     "cost": 4,
+     "items": [
+      "밤의 끝자락",
+      "구인수의 격노검",
+      "수은"
+     ]
+    },
+    {
+     "name": "장로 드래곤",
+     "cost": 5,
+     "items": [
+      "무한의 대검",
+      "최후의 속삭임",
+      "타격대의 철퇴"
+     ]
+    },
+    {
+     "name": "돌거북",
+     "cost": 3,
+     "items": [
+      "가고일 돌갑옷",
+      "정령의 형상",
+      "워모그의 갑옷"
+     ]
+    }
+   ],
+   "early": [
+    {
+     "label": "Lv4",
+     "units": [
+      "라칸",
+      "조약돌",
+      "불타는 묘목",
+      "바위 게"
+     ]
+    },
+    {
+     "label": "Lv5",
+     "units": [
+      "조약돌",
+      "불타는 묘목",
+      "어스름늑대",
+      "바위 게",
+      "돌거북"
+     ]
+    },
+    {
+     "label": "Lv6",
+     "units": [
+      "조약돌",
+      "불타는 묘목",
+      "심술두꺼비",
+      "어스름늑대",
+      "바위 게",
+      "돌거북"
+     ]
+    },
+    {
+     "label": "Lv7",
+     "units": [
+      "조약돌",
+      "불타는 묘목",
+      "심술두꺼비",
+      "어스름늑대",
+      "바위 게",
+      "어미 부리",
+      "돌거북"
+     ]
+    }
+   ],
+   "rank": 4
+  },
+  {
+   "name": "적응가 마스터 이",
+   "tier": "S",
+   "stat": "평균 4.22등 · TOP4 56.4% · 픽률 0.12\n운영: 7레벨 리롤",
+   "units": [
+    {
+     "name": "요릭",
+     "cost": 1,
+     "items": []
+    },
+    {
+     "name": "마스터 이",
+     "cost": 3,
+     "items": [
+      "싸움꾼 상징",
+      "밤의 끝자락",
+      "구인수의 격노검"
+     ]
+    },
+    {
+     "name": "코그모",
+     "cost": 3,
+     "items": [
+      "거인 학살자",
+      "붉은 덩굴정령",
+      "쇼진의 창"
+     ]
+    },
+    {
+     "name": "돌거북",
+     "cost": 3,
+     "items": []
+    },
+    {
+     "name": "바이",
+     "cost": 3,
+     "items": [
+      "가고일 돌갑옷",
+      "가고일 돌갑옷",
+      "워모그의 갑옷"
+     ]
+    },
+    {
+     "name": "세트",
+     "cost": 4,
      "items": []
     },
     {
      "name": "니달리",
      "cost": 4,
-     "star": 2,
-     "items": []
-    }
-   ],
-   "early": [
-    {
-     "label": "Lv5",
-     "units": [
-      "요릭",
-      "카르마",
-      "마스터 이",
-      "렝가",
-      "코그모"
-     ]
-    },
-    {
-     "label": "Lv6",
-     "units": [
-      "요릭",
-      "카르마",
-      "렝가",
-      "바이",
-      "마스터 이",
-      "코그모"
-     ]
-    },
-    {
-     "label": "Lv7",
-     "units": [
-      "요릭",
-      "돌거북",
-      "렝가",
-      "바이",
-      "마스터 이",
-      "세트",
-      "니달리"
-     ]
-    }
-   ],
-   "rank": 4,
-   "carries": [
-    {
-     "name": "렝가",
-     "cost": 3,
-     "star": 3,
      "items": [
       "구인수의 격노검",
+      "보석 건틀릿",
+      "라바돈의 죽음모자"
+     ]
+    }
+   ],
+   "carries": [
+    {
+     "name": "마스터 이",
+     "cost": 3,
+     "items": [
+      "싸움꾼 상징",
       "밤의 끝자락",
-      "거인의 결의"
+      "구인수의 격노검"
+     ]
+    },
+    {
+     "name": "코그모",
+     "cost": 3,
+     "items": [
+      "거인 학살자",
+      "붉은 덩굴정령",
+      "쇼진의 창"
      ]
     },
     {
      "name": "바이",
      "cost": 3,
-     "star": 3,
      "items": [
       "가고일 돌갑옷",
-      "워모그의 갑옷",
-      "수호자의 맹세"
-     ]
-    },
-    {
-     "name": "마스터 이",
-     "cost": 3,
-     "star": 3,
-     "items": [
-      "밤의 끝자락",
-      "구인수의 격노검",
-      "지옥불 손도끼"
-     ]
-    }
-   ]
-  },
-  {
-   "name": "장로 드래곤 드레이븐",
-   "tier": "HOT",
-   "units": [
-    {
-     "name": "아무무",
-     "cost": 4,
-     "star": 2,
-     "items": []
-    },
-    {
-     "name": "감시자",
-     "cost": 4,
-     "star": 2,
-     "items": []
-    },
-    {
-     "name": "타릭",
-     "cost": 5,
-     "star": 2,
-     "items": []
-    },
-    {
-     "name": "마오카이",
-     "cost": 5,
-     "star": 2,
-     "items": [
       "가고일 돌갑옷",
-      "워모그의 갑옷",
-      "정령의 형상"
-     ]
-    },
-    {
-     "name": "케넨",
-     "cost": 5,
-     "star": 2,
-     "items": [
-      "도적의 장갑"
-     ]
-    },
-    {
-     "name": "장로 드래곤",
-     "cost": 5,
-     "star": 2,
-     "items": [
-      "무한의 대검",
-      "최후의 속삭임",
-      "타격대의 철퇴"
-     ]
-    },
-    {
-     "name": "아이번",
-     "cost": 5,
-     "star": 2,
-     "items": []
-    },
-    {
-     "name": "드레이븐",
-     "cost": 5,
-     "star": 2,
-     "items": [
-      "구인수의 격노검",
-      "크라켄의 분노",
-      "크라켄의 분노"
+      "워모그의 갑옷"
      ]
     }
    ],
    "early": [
     {
+     "label": "Lv4",
+     "units": [
+      "라칸",
+      "요릭",
+      "카르마",
+      "마스터 이"
+     ]
+    },
+    {
      "label": "Lv5",
      "units": [
-      "조약돌",
-      "불타는 묘목",
-      "바위 게",
-      "어스름늑대",
-      "돌거북"
+      "요릭",
+      "카르마",
+      "마스터 이",
+      "코그모",
+      "바이"
      ]
     },
     {
      "label": "Lv6",
      "units": [
-      "코부코",
-      "조약돌",
-      "불타는 묘목",
-      "바위 게",
-      "어스름늑대",
-      "돌거북"
+      "요릭",
+      "카르마",
+      "마스터 이",
+      "코그모",
+      "돌거북",
+      "바이"
      ]
     },
     {
      "label": "Lv7",
      "units": [
-      "조약돌",
-      "불타는 묘목",
-      "바위 게",
-      "어스름늑대",
-      "심술두꺼비",
+      "요릭",
+      "마스터 이",
+      "코그모",
       "돌거북",
-      "감시자"
+      "바이",
+      "세트",
+      "니달리"
      ]
     }
    ],
-   "rank": 5,
-   "carries": [
+   "rank": 5
+  }
+ ],
+ "extra": [
+  {
+   "title": "롤체지지 마스터+",
+   "source": "https://lolchess.gg/decks",
+   "decks": [
     {
-     "name": "마오카이",
-     "cost": 5,
-     "star": 2,
-     "items": [
-      "가고일 돌갑옷",
-      "워모그의 갑옷",
-      "정령의 형상"
-     ]
+     "name": "주문술사 르블랑",
+     "tier": "S",
+     "stat": "평균 3.95등 · TOP4 61.5% · 픽률 0.13",
+     "units": [
+      {
+       "name": "베이가",
+       "cost": 1,
+       "items": [
+        "새벽심장",
+        "푸른 파수꾼",
+        "보석 건틀릿"
+       ]
+      },
+      {
+       "name": "오른",
+       "cost": 1,
+       "items": [
+        "가고일 돌갑옷",
+        "정령의 형상",
+        "워모그의 갑옷"
+       ]
+      },
+      {
+       "name": "렉사이",
+       "cost": 1,
+       "items": []
+      },
+      {
+       "name": "르블랑",
+       "cost": 2,
+       "items": [
+        "붉은 덩굴정령",
+        "쇼진의 창",
+        "공허의 지팡이"
+       ]
+      },
+      {
+       "name": "알리스타",
+       "cost": 2,
+       "items": [
+        "가고일 돌갑옷",
+        "정령의 형상",
+        "워모그의 갑옷"
+       ]
+      },
+      {
+       "name": "카시오페아",
+       "cost": 3,
+       "items": []
+      },
+      {
+       "name": "피들스틱",
+       "cost": 3,
+       "items": []
+      },
+      {
+       "name": "아리",
+       "cost": 4,
+       "items": []
+      },
+      {
+       "name": "알룬",
+       "cost": 5,
+       "items": []
+      }
+     ],
+     "carries": [
+      {
+       "name": "베이가",
+       "cost": 1,
+       "items": [
+        "새벽심장",
+        "푸른 파수꾼",
+        "보석 건틀릿"
+       ]
+      },
+      {
+       "name": "르블랑",
+       "cost": 2,
+       "items": [
+        "붉은 덩굴정령",
+        "쇼진의 창",
+        "공허의 지팡이"
+       ]
+      },
+      {
+       "name": "알리스타",
+       "cost": 2,
+       "items": [
+        "가고일 돌갑옷",
+        "정령의 형상",
+        "워모그의 갑옷"
+       ]
+      }
+     ],
+     "early": [],
+     "rank": 1
     },
     {
-     "name": "장로 드래곤",
-     "cost": 5,
-     "star": 2,
-     "items": [
-      "무한의 대검",
-      "최후의 속삭임",
-      "타격대의 철퇴"
-     ]
+     "name": "고밸류 드레이븐 장로 드래곤",
+     "tier": "S",
+     "stat": "평균 4.04등 · TOP4 55.5% · 픽률 0.61",
+     "units": [
+      {
+       "name": "아무무",
+       "cost": 4,
+       "items": []
+      },
+      {
+       "name": "감시자",
+       "cost": 4,
+       "items": []
+      },
+      {
+       "name": "드레이븐",
+       "cost": 5,
+       "items": [
+        "죽음의 검",
+        "구인수의 격노검",
+        "크라켄의 분노"
+       ]
+      },
+      {
+       "name": "장로 드래곤",
+       "cost": 5,
+       "items": [
+        "무한의 대검",
+        "최후의 속삭임",
+        "타격대의 철퇴"
+       ]
+      },
+      {
+       "name": "마오카이",
+       "cost": 5,
+       "items": [
+        "가고일 돌갑옷",
+        "정령의 형상",
+        "워모그의 갑옷"
+       ]
+      },
+      {
+       "name": "아이번",
+       "cost": 5,
+       "items": []
+      },
+      {
+       "name": "케넨",
+       "cost": 5,
+       "items": []
+      },
+      {
+       "name": "타릭",
+       "cost": 5,
+       "items": []
+      }
+     ],
+     "carries": [
+      {
+       "name": "드레이븐",
+       "cost": 5,
+       "items": [
+        "죽음의 검",
+        "구인수의 격노검",
+        "크라켄의 분노"
+       ]
+      },
+      {
+       "name": "장로 드래곤",
+       "cost": 5,
+       "items": [
+        "무한의 대검",
+        "최후의 속삭임",
+        "타격대의 철퇴"
+       ]
+      },
+      {
+       "name": "마오카이",
+       "cost": 5,
+       "items": [
+        "가고일 돌갑옷",
+        "정령의 형상",
+        "워모그의 갑옷"
+       ]
+      }
+     ],
+     "early": [],
+     "rank": 2
     },
     {
-     "name": "드레이븐",
-     "cost": 5,
-     "star": 2,
-     "items": [
-      "구인수의 격노검",
-      "크라켄의 분노",
-      "크라켄의 분노"
-     ]
+     "name": "고밸류 시비르 애쉬",
+     "tier": "S",
+     "stat": "평균 4.09등 · TOP4 56.1% · 픽률 0.04",
+     "units": [
+      {
+       "name": "라칸",
+       "cost": 1,
+       "items": []
+      },
+      {
+       "name": "바이",
+       "cost": 3,
+       "items": []
+      },
+      {
+       "name": "시비르",
+       "cost": 4,
+       "items": [
+        "무한의 대검",
+        "쇼진의 창",
+        "타격대의 철퇴"
+       ]
+      },
+      {
+       "name": "아무무",
+       "cost": 4,
+       "items": []
+      },
+      {
+       "name": "애쉬",
+       "cost": 5,
+       "items": [
+        "최후의 속삭임",
+        "붉은 덩굴정령",
+        "쇼진의 창"
+       ]
+      },
+      {
+       "name": "마오카이",
+       "cost": 5,
+       "items": [
+        "크라운가드",
+        "가고일 돌갑옷",
+        "워모그의 갑옷"
+       ]
+      },
+      {
+       "name": "아이번",
+       "cost": 5,
+       "items": []
+      },
+      {
+       "name": "케넨",
+       "cost": 5,
+       "items": []
+      },
+      {
+       "name": "타릭",
+       "cost": 5,
+       "items": []
+      }
+     ],
+     "carries": [
+      {
+       "name": "시비르",
+       "cost": 4,
+       "items": [
+        "무한의 대검",
+        "쇼진의 창",
+        "타격대의 철퇴"
+       ]
+      },
+      {
+       "name": "애쉬",
+       "cost": 5,
+       "items": [
+        "최후의 속삭임",
+        "붉은 덩굴정령",
+        "쇼진의 창"
+       ]
+      },
+      {
+       "name": "마오카이",
+       "cost": 5,
+       "items": [
+        "크라운가드",
+        "가고일 돌갑옷",
+        "워모그의 갑옷"
+       ]
+      }
+     ],
+     "early": [],
+     "rank": 3
+    },
+    {
+     "name": "[상징] 싸움꾼 마스터 이",
+     "tier": "S",
+     "stat": "평균 4.10등 · TOP4 57.7% · 픽률 0.11",
+     "units": [
+      {
+       "name": "요릭",
+       "cost": 1,
+       "items": []
+      },
+      {
+       "name": "알리스타",
+       "cost": 2,
+       "items": []
+      },
+      {
+       "name": "마스터 이",
+       "cost": 3,
+       "items": [
+        "싸움꾼 상징",
+        "밤의 끝자락",
+        "구인수의 격노검"
+       ]
+      },
+      {
+       "name": "코그모",
+       "cost": 3,
+       "items": [
+        "거인 학살자",
+        "붉은 덩굴정령",
+        "쇼진의 창"
+       ]
+      },
+      {
+       "name": "바이",
+       "cost": 3,
+       "items": [
+        "가고일 돌갑옷",
+        "가고일 돌갑옷",
+        "워모그의 갑옷"
+       ]
+      },
+      {
+       "name": "돌거북",
+       "cost": 3,
+       "items": []
+      },
+      {
+       "name": "니달리",
+       "cost": 4,
+       "items": [
+        "구인수의 격노검",
+        "보석 건틀릿",
+        "라바돈의 죽음모자"
+       ]
+      },
+      {
+       "name": "세트",
+       "cost": 4,
+       "items": []
+      }
+     ],
+     "carries": [
+      {
+       "name": "마스터 이",
+       "cost": 3,
+       "items": [
+        "싸움꾼 상징",
+        "밤의 끝자락",
+        "구인수의 격노검"
+       ]
+      },
+      {
+       "name": "코그모",
+       "cost": 3,
+       "items": [
+        "거인 학살자",
+        "붉은 덩굴정령",
+        "쇼진의 창"
+       ]
+      },
+      {
+       "name": "니달리",
+       "cost": 4,
+       "items": [
+        "구인수의 격노검",
+        "보석 건틀릿",
+        "라바돈의 죽음모자"
+       ]
+      }
+     ],
+     "early": [],
+     "rank": 4
+    },
+    {
+     "name": "[상징] 나무정령 아펠리오스",
+     "tier": "S",
+     "stat": "평균 4.13등 · TOP4 56.8% · 픽률 0.22",
+     "units": [
+      {
+       "name": "오른",
+       "cost": 1,
+       "items": []
+      },
+      {
+       "name": "자야",
+       "cost": 1,
+       "items": []
+      },
+      {
+       "name": "알리스타",
+       "cost": 2,
+       "items": []
+      },
+      {
+       "name": "르블랑",
+       "cost": 2,
+       "items": []
+      },
+      {
+       "name": "헤카림",
+       "cost": 3,
+       "items": []
+      },
+      {
+       "name": "아펠리오스",
+       "cost": 4,
+       "items": [
+        "나무정령 상징",
+        "구인수의 격노검",
+        "크라켄의 분노"
+       ]
+      },
+      {
+       "name": "이즈리얼",
+       "cost": 4,
+       "items": [
+        "무한의 대검",
+        "최후의 속삭임",
+        "쇼진의 창"
+       ]
+      },
+      {
+       "name": "릴리아",
+       "cost": 4,
+       "items": [
+        "가고일 돌갑옷",
+        "수호자의 맹세",
+        "워모그의 갑옷"
+       ]
+      }
+     ],
+     "carries": [
+      {
+       "name": "아펠리오스",
+       "cost": 4,
+       "items": [
+        "나무정령 상징",
+        "구인수의 격노검",
+        "크라켄의 분노"
+       ]
+      },
+      {
+       "name": "이즈리얼",
+       "cost": 4,
+       "items": [
+        "무한의 대검",
+        "최후의 속삭임",
+        "쇼진의 창"
+       ]
+      },
+      {
+       "name": "릴리아",
+       "cost": 4,
+       "items": [
+        "가고일 돌갑옷",
+        "수호자의 맹세",
+        "워모그의 갑옷"
+       ]
+      }
+     ],
+     "early": [],
+     "rank": 5
     }
    ]
   }
- ]
+ ],
+ "icons": {
+  "가고일 돌갑옷": "https://cdn.metatft.com/cdn-cgi/image/width=64,height=64,format=auto/https://cdn.metatft.com/file/metatft/items/da_gargoylestoneplate.png",
+  "감시자": "https://cdn.metatft.com/cdn-cgi/image/width=64,height=64,format=auto/https://cdn.metatft.com/file/metatft/champions/tft18_sentinel.png",
+  "거인 학살자": "https://cdn.metatft.com/cdn-cgi/image/width=64,height=64,format=auto/https://cdn.metatft.com/file/metatft/items/da_giantslayer.png",
+  "공허의 지팡이": "https://cdn.metatft.com/cdn-cgi/image/width=64,height=64,format=auto/https://cdn.metatft.com/file/metatft/items/da_voidstaff.png",
+  "구인수의 격노검": "https://cdn.metatft.com/cdn-cgi/image/width=64,height=64,format=auto/https://cdn.metatft.com/file/metatft/items/da_guinsoosrageblade.png",
+  "기원자 상징": "https://cdn.metatft.com/cdn-cgi/image/width=64,height=64,format=auto/https://cdn.metatft.com/file/metatft/items/da_18_embleminvoker.png",
+  "나무정령 상징": "https://cdn.lolchess.gg/upload/images/items/ElderwoodEmblem_1785483658-DA_18_EmblemElderwood.jpg",
+  "내셔의 이빨": "https://cdn.metatft.com/cdn-cgi/image/width=64,height=64,format=auto/https://cdn.metatft.com/file/metatft/items/da_nashorstooth.png",
+  "니달리": "https://cdn.metatft.com/cdn-cgi/image/width=64,height=64,format=auto/https://cdn.metatft.com/file/metatft/champions/tft18_nidalee.png",
+  "다이애나": "https://cdn.metatft.com/cdn-cgi/image/width=64,height=64,format=auto/https://cdn.metatft.com/file/metatft/champions/tft18_diana.png",
+  "달빛 상징": "https://cdn.metatft.com/cdn-cgi/image/width=64,height=64,format=auto/https://cdn.metatft.com/file/metatft/items/da_18_emblemlunar.png",
+  "덩굴정령": "https://cdn.metatft.com/cdn-cgi/image/width=64,height=64,format=auto/https://cdn.metatft.com/file/metatft/champions/tft18_brambleback.png",
+  "돌거북": "https://cdn.metatft.com/cdn-cgi/image/width=64,height=64,format=auto/https://cdn.metatft.com/file/metatft/champions/tft18_krug.png",
+  "드레이븐": "https://cdn.lolchess.gg/upload/images/champions/Draven_1783676787-Draven.jpg",
+  "라바돈의 죽음모자": "https://cdn.metatft.com/cdn-cgi/image/width=64,height=64,format=auto/https://cdn.metatft.com/file/metatft/items/da_rabadonsdeathcap.png",
+  "라칸": "https://cdn.metatft.com/cdn-cgi/image/width=64,height=64,format=auto/https://cdn.metatft.com/file/metatft/champions/tft18_rakan.png",
+  "렉사이": "https://cdn.lolchess.gg/upload/images/champions/RekSai_1783676815-Reksai.jpg",
+  "르블랑": "https://cdn.metatft.com/cdn-cgi/image/width=64,height=64,format=auto/https://cdn.metatft.com/file/metatft/champions/tft18_leblanc.png",
+  "릴리아": "https://cdn.metatft.com/cdn-cgi/image/width=64,height=64,format=auto/https://cdn.metatft.com/file/metatft/champions/tft18_lillia.png",
+  "마법공학 총검": "https://cdn.metatft.com/cdn-cgi/image/width=64,height=64,format=auto/https://cdn.metatft.com/file/metatft/items/da_hextechgunblade.png",
+  "마스터 이": "https://cdn.metatft.com/cdn-cgi/image/width=64,height=64,format=auto/https://cdn.metatft.com/file/metatft/champions/tft18_masteryi.png",
+  "마오카이": "https://cdn.lolchess.gg/upload/images/champions/Maokai_1783676844-Maokai.jpg",
+  "모렐로노미콘": "https://cdn.metatft.com/cdn-cgi/image/width=64,height=64,format=auto/https://cdn.metatft.com/file/metatft/items/da_morellonomicon.png",
+  "모르가나": "https://cdn.metatft.com/cdn-cgi/image/width=64,height=64,format=auto/https://cdn.metatft.com/file/metatft/champions/tft18_morgana.png",
+  "무한의 대검": "https://cdn.metatft.com/cdn-cgi/image/width=64,height=64,format=auto/https://cdn.metatft.com/file/metatft/items/da_infinityedge.png",
+  "바위 게": "https://cdn.metatft.com/cdn-cgi/image/width=64,height=64,format=auto/https://cdn.metatft.com/file/metatft/champions/tft18_scuttlecrab.png",
+  "바이": "https://cdn.metatft.com/cdn-cgi/image/width=64,height=64,format=auto/https://cdn.metatft.com/file/metatft/champions/tft18_vi.png",
+  "밤의 끝자락": "https://cdn.metatft.com/cdn-cgi/image/width=64,height=64,format=auto/https://cdn.metatft.com/file/metatft/items/da_edgeofnight.png",
+  "베이가": "https://cdn.metatft.com/cdn-cgi/image/width=64,height=64,format=auto/https://cdn.metatft.com/file/metatft/champions/tft18_veigar.png",
+  "보석 건틀릿": "https://cdn.metatft.com/cdn-cgi/image/width=64,height=64,format=auto/https://cdn.metatft.com/file/metatft/items/da_jeweledgauntlet.png",
+  "불타는 묘목": "https://cdn.metatft.com/cdn-cgi/image/width=64,height=64,format=auto/https://cdn.metatft.com/file/metatft/champions/tft18_cinderling.png",
+  "붉은 덩굴정령": "https://cdn.metatft.com/cdn-cgi/image/width=64,height=64,format=auto/https://cdn.metatft.com/file/metatft/items/da_redbuff.png",
+  "새벽심장": "https://cdn.lolchess.gg/upload/images/items/PBEDawncore_1752038401-Dawncore.png",
+  "생명꽃": "https://cdn.metatft.com/cdn-cgi/image/width=64,height=64,format=auto/https://cdn.metatft.com/file/metatft/champions/tft18_elderwood_treesummon.png",
+  "세트": "https://cdn.metatft.com/cdn-cgi/image/width=64,height=64,format=auto/https://cdn.metatft.com/file/metatft/champions/tft18_sett.png",
+  "쇼진의 창": "https://cdn.metatft.com/cdn-cgi/image/width=64,height=64,format=auto/https://cdn.metatft.com/file/metatft/items/da_spearofshojin.png",
+  "수은": "https://cdn.metatft.com/cdn-cgi/image/width=64,height=64,format=auto/https://cdn.metatft.com/file/metatft/items/da_quicksilver.png",
+  "수호자의 맹세": "https://cdn.metatft.com/cdn-cgi/image/width=64,height=64,format=auto/https://cdn.metatft.com/file/metatft/items/da_protectorsvow.png",
+  "시비르": "https://cdn.lolchess.gg/upload/images/champions/Sivir_1783676900-Sivir.jpg",
+  "심술두꺼비": "https://cdn.metatft.com/cdn-cgi/image/width=64,height=64,format=auto/https://cdn.metatft.com/file/metatft/champions/tft18_gromp.png",
+  "싸움꾼 상징": "https://cdn.metatft.com/cdn-cgi/image/width=64,height=64,format=auto/https://cdn.metatft.com/file/metatft/items/da_18_emblembrawler.png",
+  "아리": "https://cdn.lolchess.gg/upload/images/champions/Ahri_1783676904-Ahri.jpg",
+  "아무무": "https://cdn.lolchess.gg/upload/images/champions/Amumu_1783676909-Amumu.jpg",
+  "아이번": "https://cdn.metatft.com/cdn-cgi/image/width=64,height=64,format=auto/https://cdn.metatft.com/file/metatft/champions/tft18_ivern.png",
+  "아펠리오스": "https://cdn.lolchess.gg/upload/images/champions/Aphelios_1783676931-Aphelios.jpg",
+  "알룬": "https://cdn.metatft.com/cdn-cgi/image/width=64,height=64,format=auto/https://cdn.metatft.com/file/metatft/champions/tft18_alune.png",
+  "알리스타": "https://cdn.metatft.com/cdn-cgi/image/width=64,height=64,format=auto/https://cdn.metatft.com/file/metatft/champions/tft18_alistar.png",
+  "애쉬": "https://cdn.lolchess.gg/upload/images/champions/Ashe_1783676949-Ashe.jpg",
+  "어미 부리": "https://cdn.metatft.com/cdn-cgi/image/width=64,height=64,format=auto/https://cdn.metatft.com/file/metatft/champions/tft18_mamabeak.png",
+  "어스름늑대": "https://cdn.metatft.com/cdn-cgi/image/width=64,height=64,format=auto/https://cdn.metatft.com/file/metatft/champions/tft18_murkwolf.png",
+  "엘리스": "https://cdn.metatft.com/cdn-cgi/image/width=64,height=64,format=auto/https://cdn.metatft.com/file/metatft/champions/tft18_elise.png",
+  "오른": "https://cdn.lolchess.gg/upload/images/champions/Ornn_1783676965-Ornn.jpg",
+  "요릭": "https://cdn.metatft.com/cdn-cgi/image/width=64,height=64,format=auto/https://cdn.metatft.com/file/metatft/champions/tft18_yorick.png",
+  "워모그의 갑옷": "https://cdn.metatft.com/cdn-cgi/image/width=64,height=64,format=auto/https://cdn.metatft.com/file/metatft/items/da_warmogsarmor.png",
+  "이즈리얼": "https://cdn.lolchess.gg/upload/images/champions/Ezreal_1783676984-Ezreal.jpg",
+  "자야": "https://cdn.lolchess.gg/upload/images/champions/Xayah_1783676988-Xayah.jpg",
+  "장로 드래곤": "https://cdn.metatft.com/cdn-cgi/image/width=64,height=64,format=auto/https://cdn.metatft.com/file/metatft/champions/tft18_elderdragon.png",
+  "적응형 투구": "https://cdn.metatft.com/cdn-cgi/image/width=64,height=64,format=auto/https://cdn.metatft.com/file/metatft/items/da_adaptivehelm.png",
+  "정령의 형상": "https://cdn.metatft.com/cdn-cgi/image/width=64,height=64,format=auto/https://cdn.metatft.com/file/metatft/items/da_spiritvisage.png",
+  "조약돌": "https://cdn.metatft.com/cdn-cgi/image/width=64,height=64,format=auto/https://cdn.metatft.com/file/metatft/champions/tft18_pebbles.png",
+  "죽음의 검": "https://cdn.lolchess.gg/upload/images/items/LordsEdge_1710227794-death_blade.png",
+  "최후의 속삭임": "https://cdn.metatft.com/cdn-cgi/image/width=64,height=64,format=auto/https://cdn.metatft.com/file/metatft/items/da_lastwhisper.png",
+  "카르마": "https://cdn.metatft.com/cdn-cgi/image/width=64,height=64,format=auto/https://cdn.metatft.com/file/metatft/champions/tft18_karma.png",
+  "카밀": "https://cdn.metatft.com/cdn-cgi/image/width=64,height=64,format=auto/https://cdn.metatft.com/file/metatft/champions/tft18_camille.png",
+  "카시오페아": "https://cdn.metatft.com/cdn-cgi/image/width=64,height=64,format=auto/https://cdn.metatft.com/file/metatft/champions/tft18_cassiopeia.png",
+  "케넨": "https://cdn.lolchess.gg/upload/images/champions/Kennen_1783677113-Kennen.jpg",
+  "케이틀린": "https://cdn.metatft.com/cdn-cgi/image/width=64,height=64,format=auto/https://cdn.metatft.com/file/metatft/champions/tft18_caitlyn.png",
+  "코그모": "https://cdn.metatft.com/cdn-cgi/image/width=64,height=64,format=auto/https://cdn.metatft.com/file/metatft/champions/tft18_kogmaw.png",
+  "코부코": "https://cdn.metatft.com/cdn-cgi/image/width=64,height=64,format=auto/https://cdn.metatft.com/file/metatft/champions/tft18_kobuko.png",
+  "크라운가드": "https://cdn.metatft.com/cdn-cgi/image/width=64,height=64,format=auto/https://cdn.metatft.com/file/metatft/items/da_crownguard.png",
+  "크라켄의 분노": "https://cdn.lolchess.gg/upload/images/items/RunaansHurricane_1748474476-54e36c2efc36a585799d963fccb76e10f8d51da6-512x512.png",
+  "타격대의 철퇴": "https://cdn.metatft.com/cdn-cgi/image/width=64,height=64,format=auto/https://cdn.metatft.com/file/metatft/items/da_strikersflail.png",
+  "타릭": "https://cdn.metatft.com/cdn-cgi/image/width=64,height=64,format=auto/https://cdn.metatft.com/file/metatft/champions/tft18_taric.png",
+  "티모": "https://cdn.metatft.com/cdn-cgi/image/width=64,height=64,format=auto/https://cdn.metatft.com/file/metatft/champions/tft18_teemo.png",
+  "푸른 파수꾼": "https://cdn.lolchess.gg/images/tft/item/BlueBuff.png",
+  "피들스틱": "https://cdn.metatft.com/cdn-cgi/image/width=64,height=64,format=auto/https://cdn.metatft.com/file/metatft/champions/tft18_fiddlesticks.png",
+  "헤카림": "https://cdn.metatft.com/cdn-cgi/image/width=64,height=64,format=auto/https://cdn.metatft.com/file/metatft/champions/tft18_hecarim.png"
+ }
 }

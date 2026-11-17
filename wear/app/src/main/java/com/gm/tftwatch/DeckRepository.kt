@@ -20,13 +20,27 @@ data class Deck(
     val rank: Int = 0,
     val name: String = "",
     val tier: String = "",
+    val stat: String = "",   // "평균 4.08등 · TOP4 56.1% · 픽률 0.18" (+ 운영 방식)
     val units: List<Champ> = emptyList(),
     val carries: List<Champ> = emptyList(),
     val early: List<EarlyStep> = emptyList(),
 )
 
 @Serializable
-data class DeckData(val updatedAt: String = "", val decks: List<Deck> = emptyList())
+data class DeckSection(val title: String = "", val decks: List<Deck> = emptyList())
+
+/** decks = 주 출처(타일에 표시), extra = 앱 목록에만 나오는 다른 출처 */
+@Serializable
+data class DeckData(
+    val updatedAt: String = "",
+    val title: String = "",
+    val decks: List<Deck> = emptyList(),
+    val extra: List<DeckSection> = emptyList(),
+    val icons: Map<String, String> = emptyMap(),   // 한글 이름 -> 아이콘 주소
+) {
+    val sections: List<DeckSection>
+        get() = (listOf(DeckSection(title.ifBlank { "TFT 덱 순위" }, decks)) + extra).filter { it.decks.isNotEmpty() }
+}
 
 /** GitHub Pages의 decks.json을 받아오고, 실패하면 마지막으로 받은 캐시를 써요. */
 object DeckRepository {

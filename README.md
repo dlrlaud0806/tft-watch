@@ -25,10 +25,11 @@ python crawl.py
 ```
 
 - 성공하면 `docs/decks.json`이 갱신되고 상위 5개 덱이 출력돼요.
-- 롤체지지 `/meta` 페이지의 `__NEXT_DATA__`(추천 메타 덱 목록)를 읽고, 덱마다 상세 페이지에서 Lv5~7 배치를 가져와요.
-- 롤체지지 추천 덱에는 S/A 티어가 없어서 `tier`는 `HOT` 태그가 있으면 `"HOT"`, 없으면 빈 값이에요. 순위는 사이트에 나오는 순서예요.
+- **주 출처: MetaTFT (플래티넘+, 최근 3일 통계).** 순위·티어(S/A…)는 metatft.com/comps 화면에서, 유닛·캐리 아이템·초반 보드(Lv4~7)는 공개 API에서 가져와요. 타일에 나오는 5개가 이거예요.
+- **보조 출처: 롤체지지 메타 통계 (마스터+만 제공).** 앱 목록의 두 번째 섹션에 나와요. 실패해도 MetaTFT 결과는 저장돼요.
+- 챔피언·아이템 아이콘 주소는 `icons`(한글 이름 → 주소)에 같이 저장돼요.
 - **실패하거나 결과가 이상하면** (사이트 구조가 바뀐 경우) `python crawl.py --dump` 를 실행하고
-  `crawler/dump/` 폴더(page.html, queries.json)를 Claude에게 주세요.
+  `crawler/dump/raw.json` 을 Claude에게 주세요.
 - `crawler/.venv` 가상환경이 있으면 `run_and_push.bat` 이 그걸 먼저 써요.
 
 ### 자동 실행 (작업 스케줄러)
@@ -62,9 +63,12 @@ schtasks /create /tn "TFT Deck Crawl" /tr "C:\경로\tft-watch\crawler\run_and_p
 ```json
 {
   "updatedAt": "11/17 21:00",
+  "title": "MetaTFT 플래티넘+",
+  "icons": {"챔피언 또는 아이템 이름": "https://…png"},
+  "extra": [{"title": "롤체지지 마스터+", "decks": ["…decks와 같은 형식"]}],
   "decks": [
     {
-      "rank": 1, "name": "덱 이름", "tier": "S",
+      "rank": 1, "name": "덱 이름", "tier": "S", "stat": "평균 4.08등 · TOP4 56.1% · 픽률 0.18",
       "units":   [{"name": "챔피언", "cost": 4, "items": ["아이템1", "아이템2", "아이템3"]}],
       "carries": [{"name": "챔피언", "cost": 4, "items": ["..."]}],
       "early":   [{"label": "Lv4", "units": ["챔피언", "..."]}]

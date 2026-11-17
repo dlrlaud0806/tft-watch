@@ -45,7 +45,7 @@ class DeckTileService : TileService() {
             .setWidth(expand())
             .setHorizontalAlignment(LayoutElementBuilders.HORIZONTAL_ALIGN_START)
 
-        col.addContent(text("TFT 덱 순위", 13f, GOLD, bold = true))
+        col.addContent(text(data?.title?.ifBlank { null } ?: "TFT 덱 순위", 13f, GOLD, bold = true))
         col.addContent(Spacer.Builder().setHeight(dp(4f)).build())
 
         if (data == null || data.decks.isEmpty()) {
