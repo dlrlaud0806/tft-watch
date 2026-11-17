@@ -1,0 +1,8 @@
+wear/.gradle/
+wear/build/
+wear/app/build/
+wear/local.properties
+wear/.idea/
+crawler/dump/
+crawler/.venv/
+crawler/__pycache__/
